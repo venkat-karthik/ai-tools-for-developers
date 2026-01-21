@@ -1,2 +1,73 @@
 # ai-tools-for-developers
 A curated, ranked, and use-case driven list of AI tools for developers, students, creators, and startups.
+
+
+.
+
+🚀 AI Tools Ranked – A Practical Directory
+
+This repository contains a curated, ranked, and continuously updated list of AI tools, categorized by real productivity impact, not hype.
+
+Unlike random link dumps, tools here are:
+
+Ranked by usefulness
+
+Grouped by purpose
+
+Focused on students, developers, creators, and startups
+
+🎯 Why This Repository?
+
+Most “AI tools lists” fail because:
+
+No ranking
+
+No use cases
+
+No clarity on why a tool matters
+
+This repo solves that by:
+
+Ranking tools within each category
+
+Explaining what problem each tool solves
+
+Highlighting who should use it
+
+📌 Categories Covered
+
+🧠 AI Coding & IDE Tools
+
+🎨 Design & UI/UX
+
+🎥 Video, Image & Audio AI
+
+📊 Productivity & Knowledge
+
+🤖 Automation & AI Agents
+
+🌐 APIs for Developers
+
+🚀 Deployment & DevOps
+
+💼 Career & Job Tools
+
+🧠 AI Coding & IDE Tools (Ranked)
+Rank	Tool	Description
+1	ChatGPT	General-purpose AI assistant for coding, reasoning, and learning
+2	Cursor	AI-first code editor with deep repo understanding
+3	V0 (Vercel)	Generate production-grade UI instantly
+4	Project IDX	Cloud-based VS Code with Google AI
+5	Replit	Instant coding + deployment
+🎨 Design & UI/UX Tools
+Rank	Tool	Use Case
+1	Figma	Industry-standard UI/UX design
+2	Canva	Quick designs for non-designers
+3	Coolors	Color palette generation
+4	Unsplash	Free high-quality images
+5	Dribbble	UI inspiration
+🎥 Video, Image & Audio AI
+Video
+
+
+Submit a Pull Request
