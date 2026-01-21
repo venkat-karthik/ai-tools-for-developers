@@ -69,5 +69,97 @@ Rank	Tool	Use Case
 🎥 Video, Image & Audio AI
 Video
 
+HeyGen – AI avatars & video agents
+
+Synthesia – Business video creation
+
+Pika Labs – AI video generation
+
+Image
+
+Midjourney – Artistic image generation
+
+Leonardo AI – Game & asset design
+
+DALL·E – Prompt-based images
+
+Audio
+
+ElevenLabs – Best AI voice synthesis
+
+Murf AI – Voiceovers
+
+Natural Reader – Text-to-speech
+
+🤖 Automation & AI Agents
+Tool	Purpose
+Zapier	App automation
+Make	Visual workflow automation
+n8n	Open-source automation
+Pipedream	Developer automation
+🌐 APIs for Students & Developers
+API	Use Case
+OpenWeather	Weather data
+Unsplash API	Images
+JSONPlaceholder	Fake REST APIs
+NASA APIs	Space data
+CoinGecko	Crypto prices
+🚀 Deployment & Hosting
+
+Vercel – Frontend hosting
+
+Netlify – Static & JAMstack
+
+Firebase – Backend + auth
+
+Render – Full-stack hosting
+
+Railway – Developer-friendly infra
+
+💼 Career & Job Tools
+
+LinkedIn – Networking
+
+Internshala – Internships (India)
+
+Wellfound – Startup jobs
+
+Jobscan – Resume optimization
+
+Levels.fyi – Salary insights
+
+🧩 How Rankings Work
+
+Tools are ranked based on:
+
+Real-world adoption
+
+Productivity gain
+
+Learning curve
+
+Practical value (not hype)
+
+🤝 Contributing
+
+Contributions are welcome.
+
+You can:
+
+Add new tools
+
+Improve descriptions
+
+Suggest re-rankings
+
+Add real-world use cases
+
+Contribution Steps
+
+Fork the repo
+
+Create a new branch
+
+Make your changes
 
 Submit a Pull Request
